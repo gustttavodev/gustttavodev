@@ -45,12 +45,30 @@
       height="40"
     />
   </a>
-
+  
+  <a>
+    <img
+      src="https://ionicframework.com/img/meta/logo.png"
+      alt="IONIC"
+      width="40"
+      height="40"
+    />
+  </a>
+  
   <a>
     <img
       src="https://devicon.dev/devicon.git/icons/vuejs/vuejs-original.svg"
       alt="Vuejs"
       width="40"
+      height="40"
+    />
+  </a>
+  
+   <a>
+    <img
+      src="https://img2.gratispng.com/20180701/rht/kisspng-angularjs-logo-javascript-security-token-5b38e22b8a3f38.7851363415304545715663.jpg"
+      alt="Angular"
+      width="45"
       height="40"
     />
   </a>
