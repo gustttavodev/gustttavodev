@@ -146,6 +146,6 @@
     />
   </a>
 
-
+![](https://komarev.com/ghpvc/?username=gustavo3g&color=blue&style=plastic&label=Visualiza%C3%A7%C3%B5es)
 <!--
 **Gustavo3g/Gustavo3g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
