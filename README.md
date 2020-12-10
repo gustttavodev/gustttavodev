@@ -7,11 +7,13 @@
   </a>
 </p>
 
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Gustavo Barros!
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello!
 
 💻 Backend Developer <br>
 🏡 Brazilian, MA 🌎 <br>
 <br>
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/gutzbs/)](https://t.me/gutzbs/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.gurustavo@gmail.com)](mailto:contato.gurustavo@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Gustavo-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo3g)](https://www.linkedin.com/in/gustavo3g/) 
 
 ### Linguagens e Ferramentas
