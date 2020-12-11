@@ -50,15 +50,6 @@
   
   <a>
     <img
-      src="https://ionicframework.com/img/meta/logo.png"
-      alt="IONIC"
-      width="40"
-      height="40"
-    />
-  </a>
-  
-  <a>
-    <img
       src="https://devicon.dev/devicon.git/icons/vuejs/vuejs-original.svg"
       alt="Vuejs"
       width="40"
