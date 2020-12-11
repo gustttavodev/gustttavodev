@@ -12,6 +12,7 @@
 💻 Backend Developer <br>
 🏡 Brazilian, MA 🌎 <br>
 <br>
+[![Linkedin Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/gustavo3g/)](https://www.instagram.com/gustavo3g/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/gutzbs/)](https://t.me/gutzbs/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.gurustavo@gmail.com)](mailto:contato.gurustavo@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Gustavo-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo3g)](https://www.linkedin.com/in/gustavo3g/) 
