@@ -8,9 +8,10 @@
 </p>
 
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello!
-
-💻 Backend Developer <br>
-🏡 Brazilian, MA 🌎 <br>
+⭐ More about me: <br>
+  👨‍🎓 I'm Information System student in Facimp <br>
+  💻 Backend Developer <br>
+  🏡 Brazilian, MA 🌎 <br>
 <br>
 [![Linkedin Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/gustavo3g/)](https://www.instagram.com/gustavo3g/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/gutzbs/)](https://t.me/gutzbs/)
