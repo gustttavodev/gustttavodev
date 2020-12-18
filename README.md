@@ -61,7 +61,7 @@
   
    <a>
     <img
-      src="https://img2.gratispng.com/20180701/rht/kisspng-angularjs-logo-javascript-security-token-5b38e22b8a3f38.7851363415304545715663.jpg"
+      src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/21_Angular-512.png"
       alt="Angular"
       width="45"
       height="40"
