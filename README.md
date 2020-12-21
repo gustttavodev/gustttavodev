@@ -18,129 +18,42 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.gurustavo@gmail.com)](mailto:contato.gurustavo@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Gustavo-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo3g)](https://www.linkedin.com/in/gustavo3g/) 
 
-### Linguagens e Ferramentas
+![](https://komarev.com/ghpvc/?username=gustavo3g&color=blue&style=plastic&label=Visualiza%C3%A7%C3%B5es)
+### My Development Stack
 
+**Application and Data**
 <br/>
 
-<p>
-  <a href="https://www.javascript.com/" target="_blank">
-    <img
-      src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg"
-      alt="Javascript"
-      width="40"
-      height="40"
-    />
-  </a>
+<code><img height="32" src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" alt="Javascript"/></code>
+<code><img height="32" src="https://devicon.dev/devicon.git/icons/css3/css3-original.svg" alt="Css3"/></code>
+<code><img height="32" src="https://devicon.dev/devicon.git/icons/html5/html5-original.svg" alt="HTML5"/></code>
+<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" alt="Python" /></code>
+<code><img height="32" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="React" /></code>
+<code><img height="32" src="https://devicon.dev/devicon.git/icons/vuejs/vuejs-original.svg" alt="Vue"/></code>
+<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP" width="50"/></code>
+<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="Laravel"/></code>
+<code><img height="32" src="https://devicon.dev/devicon.git/icons/linux/linux-original.svg" alt="Linux"/></code>
+<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png" alt="Nodejs"/></code>
+<code><img height="32" src="https://images.ctfassets.net/89x9qkiaqmsu/7hiFIqtipVoEaLsPe1Bbm2/1202cc7c41cca671d0c6e95f0c0fb320/ts.png" alt="Typescript"/></code>
+<code><img height="32" src="https://devicon.dev/devicon.git/icons/python/python-original.svg" alt="Python" /></code>
+<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/1200px-Selenium_Logo.png" alt="Selenium" /></code>
 
-  <a>
-    <img
-      src="https://devicon.dev/devicon.git/icons/css3/css3-original.svg"
-      alt="CSS"
-      width="40"
-      height="40"
-    />
-  </a>
+**Utilities**
 
-  <a>
-    <img
-      src="https://devicon.dev/devicon.git/icons/html5/html5-original.svg"
-      alt="HTML"
-      width="40"
-      height="40"
-    />
-  </a>
-  
-  <a>
-    <img
-      src="https://devicon.dev/devicon.git/icons/vuejs/vuejs-original.svg"
-      alt="Vuejs"
-      width="40"
-      height="40"
-    />
-  </a>
-  
-   <a>
-    <img
-      src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/21_Angular-512.png"
-      alt="Angular"
-      width="45"
-      height="40"
-    />
-  </a>
-  
-  <a>
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg"
-      alt="PHP"
-      width="40"
-      height="40"
-    />
-  </a>
+<code><img height="32" src="https://dashboard.snapcraft.io/site_media/appmedia/2018/04/twitter-card-icon.png" alt="Insomnia"/></code>
+<code><img height="32" src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png" alt="Postman"/></code>
 
-  <a>
-    <img
-      src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg"
-      alt="PHP"
-      width="40"
-      height="40"
-    />
-  </a>
+**DevOps**
 
-  <a>
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png"
-      alt="Python"
-      width="40"
-      height="40"
-    />
-  </a>
-  
+<code><img height="32" src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" alt="GitHub"/></code>
+<code><img height="32" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker"/></code>
+<code><img height="32" src="https://trickdroid.org/wp-content/uploads/2019/12/Conhecendo-o-VirtualBox-definicao-funcoes-pontos-fortes-e-pontos-fracos.png" alt="VirtualBox"/></code>
 
-  <a>
-    <img
-      src="https://devicon.dev/devicon.git/icons/linux/linux-original.svg"
-      alt="Linux"
-      width="40"
-      height="40"
-    />
-  </a>
+**Business Tools**
 
-  <a>
-    <img
-    src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png"
-    alt="Typescript"
-    width="40"
-    height="40"
-    />
-  </a>
+<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/notion-1693557-1442598.png" alt="Notion"/></code>
+<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/trello-6-569395.png" alt="Trello"/></code>
 
-  <a>
-  <img
-    src="https://images.ctfassets.net/89x9qkiaqmsu/7hiFIqtipVoEaLsPe1Bbm2/1202cc7c41cca671d0c6e95f0c0fb320/ts.png"
-    alt=""
-    width="40"
-    height="40"
-    />
-  </a>
-
-  <a>
-    <img
-    src="https://devicon.dev/devicon.git/icons/python/python-original.svg"
-    alt="Python"
-    width="40"
-    height="40"
-    />
-  </a>
-
-  <a>
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/1200px-Selenium_Logo.png"
-      alt="Python"
-      width="40"
-      height="40"
-    />
-  </a>
-
-![](https://komarev.com/ghpvc/?username=gustavo3g&color=blue&style=plastic&label=Visualiza%C3%A7%C3%B5es)
 <!--
 **Gustavo3g/Gustavo3g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
