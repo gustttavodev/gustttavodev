@@ -29,7 +29,7 @@
 <code><img height="32" src="https://tadeuesteves.files.wordpress.com/2014/01/javascript-logo.png" alt="Javascript"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" alt="Python" /></code>
 <code><img height="32" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="React" /></code>
-<code><img height="32" src="https://assets.stickpng.com/images/58482acecef1014c0b5e4a1e.png" alt="Vue"/></code>
+<code><img height="32" src="https://img2.gratispng.com/20180718/cbh/kisspng-vue-js-javascript-library-angularjs-react-vue-js-5b4ebe1bc45884.1915769815318871318042.jpg" alt="Vue"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP" width="50"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="Laravel"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" alt="Linux"/></code>
