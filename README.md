@@ -34,7 +34,7 @@
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="Laravel"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" alt="Linux"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png" alt="Nodejs"/></code>
-<code><img height="32" src="https://images.ctfassets.net/89x9qkiaqmsu/7hiFIqtipVoEaLsPe1Bbm2/1202cc7c41cca671d0c6e95f0c0fb320/ts.png" alt="Typescript"/></code>
+<code><img height="32" src="https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png" alt="Typescript"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" alt="Python" /></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/1200px-Selenium_Logo.png" alt="Selenium" /></code>
 
