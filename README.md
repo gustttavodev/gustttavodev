@@ -12,10 +12,11 @@
   👨‍🎓 I'm Information System student in Facimp <br>
   💻 Backend Developer <br>
   🏡 Brazilian, MA 🌎 <br>
+  📬 gustavo3g.dev@gmail.com
 <br>
 [![Linkedin Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/gutzbs/)](https://www.instagram.com/gutzbs/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/gutzbs/)](https://t.me/gutzbs/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.gurustavo@gmail.com)](mailto:contato.gurustavo@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.gurustavo@gmail.com)](mailto:gustavo3g.dev@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Gustavo-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo3g)](https://www.linkedin.com/in/gustavo3g/) 
 
 ![](https://komarev.com/ghpvc/?username=gustavo3g&color=blue&style=plastic&label=Visualiza%C3%A7%C3%B5es)
