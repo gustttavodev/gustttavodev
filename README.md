@@ -7,7 +7,7 @@
   </a>
 </p>
 
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello!
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" style="width:30px; heigth:30px"> Hello!
 ⭐ More about me: <br>
   👨‍🎓 I'm Information System student in Facimp <br>
   💻 Backend Developer <br>
