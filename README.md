@@ -1,60 +1,88 @@
-<p>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo3g&count_private=true&layout=compact&theme=dark&custom_title=Linguagens%20Mais%20Usadas"
-    />
+<h2 align="center">HELLO FRIEND 👋</h2>
+
+###
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&username=gustavo3g" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=gustavo3g" height="150" alt="languages graph"  />
+</div>
+
+###
+<h4 align="left">More about me:</h4>
+
+###
+<p align="left">🧑🏻‍🏫 I'm Information System student in Facimp<br>👨‍💻 Backend Developer<br>🇧🇷 Brazilian, MA</p>
+
+###
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=gustavo3g.gustavo3g&"  />
+</div>
+
+###
+<div align="left">
+  <a href="https://www.linkedin.com/in/gustavo3g/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-</p>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <a href="https://t.me/gutzbs/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  </a>
+  <a href="http://api.whatsapp.com/send?1=pt_BR&phone=5599991135745" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
+  <a href="https://www.instagram.com/gutzbs/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
 
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" style="width:30px; heigth:30px"> Hello!
-⭐ More about me: <br>
-  👨‍🎓 I'm Information System student in Facimp <br>
-  💻 Backend Developer <br>
-  🏡 Brazilian, MA 🌎 <br>
-  📬 gustavo3g.dev@gmail.com <br>
-<br>
-[![Linkedin Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/gutzbs/)](https://www.instagram.com/gutzbs/)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/gutzbs/)](https://t.me/gutzbs/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.gurustavo@gmail.com)](mailto:gustavo3g.dev@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-Gustavo-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo3g)](https://www.linkedin.com/in/gustavo3g/) 
+###
+<h4 align="left">My Development Stack:</h4>
 
-![](https://komarev.com/ghpvc/?username=gustavo3g&color=blue&style=plastic&label=Visualiza%C3%A7%C3%B5es)
-### My Development Stack
+###
+<h6 align="left">Application and Data</h6>
 
-**Application and Data**
-<br/>
+###
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="52" alt="php logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" width="52" alt="laravel logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" width="52" alt="vuejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" width="52" alt="nestjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="40" width="52" alt="codeigniter logo"  />
+</div>
 
-<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" alt="HTML5"/></code>
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/css3-9-1175237.png" alt="Css3"/></code>
-<code><img height="32" src="https://tadeuesteves.files.wordpress.com/2014/01/javascript-logo.png" alt="Javascript"/></code>
-<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" alt="Python" /></code>
-<code><img height="32" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="React" /></code>
-<code><img height="32" src="https://i.imgur.com/D5n4Qnh.png" alt="Vue"/></code>
-<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP" width="50"/></code>
-<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="Laravel"/></code>
-<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" alt="Linux"/></code>
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png" alt="Nodejs"/></code>
-<code><img height="32" src="https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png" alt="Typescript"/></code>
-<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" alt="Python" /></code>
-<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/1200px-Selenium_Logo.png" alt="Selenium" /></code>
+###
+<h6 align="left">Utilities:</h6>
 
-**Utilities**
+###
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" width="52" alt="gitlab logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="52" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="52" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="40" width="52" alt="bitbucket logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" width="52" alt="bash logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="40" width="52" alt="gimp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" width="52" alt="jira logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="40" width="52" alt="yarn logo"  />
+</div>
 
-<code><img height="32" src="https://dashboard.snapcraft.io/site_media/appmedia/2018/04/twitter-card-icon.png" alt="Insomnia"/></code>
-<code><img height="32" src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png" alt="Postman"/></code>
+###
+<h6 align="left">Business Tools</h6>
 
-**DevOps**
+###
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" width="52" alt="trello logo"  />
+</div>
 
-<code><img height="32" src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" alt="GitHub"/></code>
-<code><img height="32" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker"/></code>
-<code><img height="32" src="https://trickdroid.org/wp-content/uploads/2019/12/Conhecendo-o-VirtualBox-definicao-funcoes-pontos-fortes-e-pontos-fracos.png" alt="VirtualBox"/></code>
+###
 
-**Business Tools**
 
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/notion-1693557-1442598.png" alt="Notion"/></code>
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/trello-6-569395.png" alt="Trello"/></code>
-
-<!--
-**Gustavo3g/Gustavo3g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
