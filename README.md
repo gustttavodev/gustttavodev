@@ -1,11 +1,26 @@
+<!--
 <img align="leaft" alt="Gif" height="300" width="1090" style="border-radius:50px;"  src="https://camo.githubusercontent.com/5dc6ee33381917e41fc9c4951799268998f11a9b864399bf79a0842e4f9b194d/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966">
+-->
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px"> Hi there, I'm Gustavo!
 
-###
-<div align="center">
+
+Software Developer specialized in large-scale corporate projects, with expertise in PHP, Laravel, Node.js, Nest.js, JavaScript, TypeScript.
+
+I constantly seek challenges and opportunities for professional growth.
+My passion is to work on innovative projects, focused on effective solutions that meet the needs of users and companies. Committed to teamwork, I collaborate to achieve common goals.
+
+Would you like to find me?
+
+[![Linkedin: Gustavo](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustttavodev/)](https://www.linkedin.com/in/gustttavodev/)
+[![Gmail Badge](https://img.shields.io/badge/-gustttavodev@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustttavodev@gmail.com)](mailto:gustttavodev@gmail.com)
+
+
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&username=gustttavodev" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=gustttavodev" height="150" alt="languages graph"  />
 </div>
 
+<!--
 ###
 <h4 align="left">More about me:</h4>
 
@@ -31,7 +46,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
-
+-->
 ###
 <h4 align="left">My Development Stack:</h4>
 
@@ -83,4 +98,3 @@
 ###
 
 
-###
