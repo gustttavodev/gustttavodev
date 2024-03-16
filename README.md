@@ -47,6 +47,7 @@ Would you like to find me?
   </a>
 </div>
 -->
+<!--
 ###
 <h4 align="left">My Development Stack:</h4>
 
@@ -96,5 +97,5 @@ Would you like to find me?
 </div>
 
 ###
-
+-->
 
