@@ -3,11 +3,9 @@
 -->
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px"> Hi there, I'm Gustavo!
 
+💻 Desenvolvedor de Software especializado em projetos corporativos de baixa e grande escala, com expertise em PHP, Laravel, Python, Vuejs, JavaScript e Node. <br>
 
-👋 Olá, eu sou o Gustavo!
-💻 Desenvolvedor de Software especializado em projetos corporativos de baixa e grande escala, com expertise em PHP, Laravel, Python, Vuejs, JavaScript e Node.
-
-🚀 Busco constantemente desafios e oportunidades para crescimento profissional. Minha paixão é trabalhar em projetos inovadores, focados em soluções eficazes que atendam às necessidades dos usuários e das empresas.
+🚀 Busco constantemente desafios e oportunidades para crescimento profissional. Minha paixão é trabalhar em projetos inovadores, focados em soluções eficazes que atendam às necessidades dos usuários e das empresas. <br>
 
 🤝 Comprometido com o trabalho em equipe, colaboro ativamente para alcançar objetivos comuns e entregar resultados de alta qualidade.
 
