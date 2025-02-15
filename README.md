@@ -4,12 +4,14 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px"> Hi there, I'm Gustavo!
 
 
-Software Developer specialized in large-scale corporate projects, with expertise in PHP, Laravel, Node.js, Nest.js, JavaScript, TypeScript.
+👋 Olá, eu sou o Gustavo!
+💻 Desenvolvedor de Software especializado em projetos corporativos de baixa e grande escala, com expertise em PHP, Laravel, Python, Vuejs, JavaScript e Node.
 
-I constantly seek challenges and opportunities for professional growth.
-My passion is to work on innovative projects, focused on effective solutions that meet the needs of users and companies. Committed to teamwork, I collaborate to achieve common goals.
+🚀 Busco constantemente desafios e oportunidades para crescimento profissional. Minha paixão é trabalhar em projetos inovadores, focados em soluções eficazes que atendam às necessidades dos usuários e das empresas.
 
-Would you like to find me?
+🤝 Comprometido com o trabalho em equipe, colaboro ativamente para alcançar objetivos comuns e entregar resultados de alta qualidade.
+
+Entre em contato 👇🏻
 
 [![Linkedin: Gustavo](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustttavodev/)](https://www.linkedin.com/in/gustttavodev/)
 [![Gmail Badge](https://img.shields.io/badge/-gustttavodev@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustttavodev@gmail.com)](mailto:gustttavodev@gmail.com)
