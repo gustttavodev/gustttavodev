@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
-</div>
-
 <h1 align="center">Olá, eu sou Gustavo! 👋</h1>
 
 <h3 align="center">💻 Desenvolvedor de Software especializado em projetos corporativos de baixa e grande escala</h3>
