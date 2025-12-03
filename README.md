@@ -14,18 +14,18 @@
   🤝 Comprometido com o trabalho em equipe, colaboro ativamente para alcançar objetivos comuns e entregar resultados de alta qualidade.
 </p>
 
----
 
-## 📊 Estatísticas do GitHub
+
+
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustttavodev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false&locale=pt-br" alt="GitHub Stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustttavodev&layout=compact&langs_count=8&theme=dracula&hide_border=false&locale=pt-br" alt="Top Languages"/>
 </div>
 
----
 
-## 🛠️ Minha Stack
+
+## 🛠️ Stack
 
 ### 🔧 Backend
 
