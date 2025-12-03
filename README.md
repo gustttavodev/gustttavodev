@@ -1,103 +1,95 @@
-<!--
-<img align="leaft" alt="Gif" height="300" width="1090" style="border-radius:50px;"  src="https://camo.githubusercontent.com/5dc6ee33381917e41fc9c4951799268998f11a9b864399bf79a0842e4f9b194d/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966">
--->
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px"> Hi there, I'm Gustavo!
-
-💻 Desenvolvedor de Software especializado em projetos corporativos de baixa e grande escala, com expertise em PHP, Laravel, Python, Vuejs, JavaScript e Node. <br>
-
-🚀 Busco constantemente desafios e oportunidades para crescimento profissional. Minha paixão é trabalhar em projetos inovadores, focados em soluções eficazes que atendam às necessidades dos usuários e das empresas. <br>
-
-🤝 Comprometido com o trabalho em equipe, colaboro ativamente para alcançar objetivos comuns e entregar resultados de alta qualidade.
-
-Entre em contato 👇🏻
-
-[![Linkedin: Gustavo](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustttavodev/)](https://www.linkedin.com/in/gustttavodev/)
-[![Gmail Badge](https://img.shields.io/badge/-gustttavodev@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustttavodev@gmail.com)](mailto:gustttavodev@gmail.com)
-
-
-<div align="left">
-  <!--
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&username=gustttavodev" height="150" alt="stats graph"  />
-  -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=gustttavodev" height="150" alt="languages graph"  />
+<div align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
 </div>
 
-<!--
-###
-<h4 align="left">More about me:</h4>
+<h1 align="center">Olá, eu sou Gustavo! 👋</h1>
 
-###
-<p align="left">🧑🏻‍🏫 I'm Information System student in Facimp<br>👨‍💻 Backend Developer<br>🇧🇷 Brazilian, MA</p>
+<h3 align="center">💻 Desenvolvedor de Software especializado em projetos corporativos de baixa e grande escala</h3>
 
-###
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=gustttavodev.gustttavodev&"  />
+<p align="center">
+  🚀 Busco constantemente desafios e oportunidades para crescimento profissional. Minha paixão é trabalhar em projetos inovadores, focados em soluções eficazes que atendam às necessidades dos usuários e das empresas.
+</p>
+
+<p align="center">
+  🤝 Comprometido com o trabalho em equipe, colaboro ativamente para alcançar objetivos comuns e entregar resultados de alta qualidade.
+</p>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustttavodev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false&locale=pt-br" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustttavodev&layout=compact&langs_count=8&theme=dracula&hide_border=false&locale=pt-br" alt="Top Languages"/>
 </div>
 
-###
-<div align="left">
+---
+
+## 🛠️ Minha Stack
+
+### 🔧 Backend
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![RESTful API](https://img.shields.io/badge/RESTful_API-FF6F00?style=for-the-badge&logo=rest&logoColor=white)
+
+
+### 🎨 Frontend
+
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+
+### ☁️ Infraestrutura & DevOps
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+### 🧪 Testes & Qualidade
+
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Locust](https://img.shields.io/badge/Locust-9B59B6?style=for-the-badge&logo=python&logoColor=white)
+![PHPUnit](https://img.shields.io/badge/PHPUnit-4E5D94?style=for-the-badge&logo=php&logoColor=white)
+
+### 📋 Metodologias
+
+![Agile](https://img.shields.io/badge/Agile-009639?style=for-the-badge&logo=agile&logoColor=white)
+![Code Review](https://img.shields.io/badge/Code_Review-FF6B6B?style=for-the-badge&logo=git&logoColor=white)
+![Team Collaboration](https://img.shields.io/badge/Team_Collaboration-4A90E2?style=for-the-badge&logo=slack&logoColor=white)
+
+
+
+
+<div align="center">
   <a href="https://www.linkedin.com/in/gustttavodev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-
-  <a href="https://t.me/gustttavodev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-  </a>
-
-  <a href="https://www.instagram.com/gustttavodev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <a href="mailto:gustttavodev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </div>
--->
-<!--
-###
-<h4 align="left">My Development Stack:</h4>
 
-###
-<h6 align="left">Application and Data</h6>
+---
 
-###
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="52" alt="php logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" width="52" alt="laravel logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" width="52" alt="vuejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" width="52" alt="nestjs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="40" width="52" alt="codeigniter logo"  />
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=gustttavodev&color=blueviolet&style=flat-square" alt="Profile views"/>
 </div>
 
-###
-<h6 align="left">Utilities:</h6>
-
-###
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" width="52" alt="gitlab logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="52" alt="github logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="52" alt="docker logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="40" width="52" alt="bitbucket logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" width="52" alt="bash logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="40" width="52" alt="gimp logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" width="52" alt="jira logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="40" width="52" alt="yarn logo"  />
+<div align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
+  <em><b>Estou sempre aberto a novas oportunidades e colaborações!</b></em>
 </div>
-
-###
-<h6 align="left">Business Tools</h6>
-
-###
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" width="52" alt="trello logo"  />
-</div>
-
-###
--->
-
